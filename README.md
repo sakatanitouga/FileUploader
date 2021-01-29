@@ -19,7 +19,7 @@ AddType application/x-httpd-php .php .html
 ```
 5.\xampp\htdocs のディレクト内に以下を入力する。  
 ```
-git clone 
+git clone https://github.com/sakatanitouga/FileUploader.git
 ```
 # 使用方法
 1.サーバ側のPCでxampp-control.exeを実行する  
