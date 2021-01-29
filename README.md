@@ -13,7 +13,7 @@ https://www.apachefriends.org/jp/index.html
 セットアップ中に再起動が行われるので注意!!  
   
 3.Xamppインストール完了後\xampp\apache\conf\httpd.confを開く    
-4.<IfModule   mime_module>….</IfModule>の中に 以下を追記
+4.```<IfModule   mime_module>….</IfModule>```の中に 以下を追記
 ```
 AddType application/x-httpd-php .php .html
 ```
