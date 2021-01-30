@@ -22,7 +22,7 @@ AddType application/x-httpd-php .php .html
 git clone https://github.com/sakatanitouga/FileUploader.git
 ```
 # 使用方法
-1.サーバ側のPCでxampp-control.exeを実行する  
+1.サーバ側のPCでxampp-control.exeを実行しApachのStartを押す  
 2.作っているhtmlの文の中に以下を入力  
 ```
 <form method="post" action="http://localhost/FileUploader/" enctype="multipart/form-data">
